@@ -23,6 +23,12 @@ body {
     font-size: 42px;
 }
 
+video, img {
+    align-self: center;
+}
+
+
+
 p {
     font-size: 21px;
     color: gray;
